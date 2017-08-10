@@ -18,6 +18,27 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        int X;
+        X=2;        
+        int Y;
+        Y=3;                
+        double N;
+        N=4.2;        
+        double M;
+        M=5.3;
+        
+        int B;        
+        double G;
+               
+        
+        B = Y+X;        
+        System.out.println("El resutaldo X+Y es: "+B);
+        
+        G = B*M;        
+        System.out.println("El resultado de B*M es: "+G);
+        
+        
+        
     }
     
 }
